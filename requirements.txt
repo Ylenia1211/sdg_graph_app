@@ -1,0 +1,13 @@
+Flask==3.0.3
+flask-cors==4.0.0
+neo4j==5.23.0
+pydantic==2.9.2
+python-dotenv==1.0.1
+requests==2.32.3
+streamlit==1.39.0
+streamlit-cytoscapejs==0.0.2
+pandas
+plotly==5.24.1
+py2neo==2021.2.4
+streamlit-agraph==0.0.45
+SPARQLWrapper==2.0.0

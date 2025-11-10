@@ -1,0 +1,5 @@
+[client]
+showSidebarNavigation = false
+[ui]
+hideSidebarNav = false
+initial_sidebar_state = "collapsed"
