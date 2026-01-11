@@ -1,4 +1,4 @@
-
+<img width="1356" height="697" alt="image" src="https://github.com/user-attachments/assets/f42b38e2-7705-4ed2-9a14-869ecfa64322" />
 # Stakeholder Knowledge Graph & Relationship Exploration
 
 Applicazione interattiva per la **mappatura, l’arricchimento semantico e l’analisi delle relazioni** tra stakeholder, progetti, parole chiave e Obiettivi di Sviluppo Sostenibile (SDG).  
@@ -15,7 +15,10 @@ L’obiettivo è **mappare ecosistemi collaborativi** e suggerire nuove relazion
 - struttura del grafo (co-partecipazioni, domini tematici),
 - **Link Prediction** e embedding **FastRP**.
 
+<img width="1356" height="697" alt="image" src="https://github.com/user-attachments/assets/2569757e-a467-40b4-9bda-f4ee333938e7" />
+
 ---
+
 
 ## 🎯 Obiettivi
 
