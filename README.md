@@ -152,6 +152,6 @@ streamlit run home.py
 
 ## 📄 Licenza
 
-Da definire (MIT consigliata).
+Da definire.
 
 Rilascio: 30/09/2025
