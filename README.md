@@ -1,4 +1,3 @@
-<img width="1356" height="697" alt="image" src="https://github.com/user-attachments/assets/f42b38e2-7705-4ed2-9a14-869ecfa64322" />
 # Stakeholder Knowledge Graph & Relationship Exploration
 
 Applicazione interattiva per la **mappatura, l’arricchimento semantico e l’analisi delle relazioni** tra stakeholder, progetti, parole chiave e Obiettivi di Sviluppo Sostenibile (SDG).  
