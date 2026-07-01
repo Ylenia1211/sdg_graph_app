@@ -19,7 +19,7 @@ L’obiettivo è **mappare ecosistemi collaborativi** e suggerire nuove relazion
 ---
 
 
-## 🎯 Obiettivi
+## Obiettivi
 
 - Rappresentare Stakeholder e Progetti come grafo ricco e navigabile.
 - Evidenziare **temi**, **territori** e **settori** condivisi.
@@ -32,7 +32,7 @@ L’obiettivo è **mappare ecosistemi collaborativi** e suggerire nuove relazion
 
 ---
 
-## 🧱 Architettura
+## Architettura
 
 ```
 (Frontend Streamlit) ←→ (REST API Flask) ←→ (Neo4j + GDS)
@@ -43,7 +43,7 @@ L’obiettivo è **mappare ecosistemi collaborativi** e suggerire nuove relazion
 
 ---
 
-## 📦 Struttura del progetto
+##  Struttura del progetto
 
 ```
 backend/
@@ -69,7 +69,7 @@ streamlit_app/
 
 ---
 
-## 🧬 Backend Knowledge Graph
+##  Backend Knowledge Graph
 
 ### Modello dati
 
@@ -113,7 +113,7 @@ LODEntity(uri, label, source)
 
 ---
 
-## 🚀 Installazione
+##  Installazione
 
 ### 1. Clona il repository
 ```bash
